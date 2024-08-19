@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807198837601",
+    "project_id": "asistencia-ie-amc",
+    "storage_bucket": "asistencia-ie-amc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807198837601:android:66923c233866a088451320",
+        "android_client_info": {
+          "package_name": "com.unica.asistenciaieamc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTYNc-zL2VZLgksWaSNnasY-LP6O9XdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
